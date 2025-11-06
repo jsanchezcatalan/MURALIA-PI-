@@ -1,7 +1,9 @@
 /**
- * Componente raíz de Angular (AppComponent).
- * Define la clase principal de la aplicación, su selector, la plantilla HTML
- * y los estilos asociados. Este componente se carga primero al iniciar la app.
+ *Aquí controlas la lógica del componente principal:
+ *puedes crear funciones, manejar datos o definir variables que se usan en el HTML.
+ *Componente raíz de Angular (AppComponent).
+ *Define la clase principal de la aplicación, su selector, la plantilla HTML
+ *y los estilos asociados. Este componente se carga primero al iniciar la app.
  */
 
 import { Component, signal } from '@angular/core';
