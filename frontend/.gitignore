@@ -1,3 +1,6 @@
+# Lista de archivos y carpetas que Git debe ignorar (no subir al repositorio).
+# Ejemplo: node_modules, dist, .angular/cache, etc.
+
 # See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
 
 # Compiled output

@@ -1,3 +1,6 @@
+// Configuraciones personalizadas del entorno de desarrollo.
+// Ejemplo: formato de código, tamaño de tabulación, sangría, etc.
+
 {
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",

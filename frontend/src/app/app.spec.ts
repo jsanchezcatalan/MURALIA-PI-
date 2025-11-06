@@ -1,3 +1,9 @@
+/**
+ * Archivo de pruebas unitarias para el componente raíz (AppComponent).
+ * Se usa con Jasmine y Karma para verificar que el componente funciona correctamente.
+ * No afecta al funcionamiento normal de la aplicación.
+ */
+
 import { TestBed } from '@angular/core/testing';
 import { App } from './app';
 

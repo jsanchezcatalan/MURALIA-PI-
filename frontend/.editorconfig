@@ -1,3 +1,6 @@
+# Configura el formato del código (sangría, espacios, saltos de línea, etc.)
+# para mantener un estilo consistente entre distintos editores.
+
 # Editor configuration, see https://editorconfig.org
 root = true
 

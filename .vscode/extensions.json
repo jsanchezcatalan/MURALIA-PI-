@@ -1,3 +1,6 @@
+// Lista de extensiones recomendadas para este proyecto en VS Code.
+// VS Code puede sugerir instalarlas automáticamente.
+
 {
   "recommendations": [
     "angular.ng-template",
