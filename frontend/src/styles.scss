@@ -1,0 +1,33 @@
+/* Importar tema precompilado de Angular Material */
+@import '@angular/material/prebuilt-themes/indigo-pink.css';
+
+/* Estilos globales */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: Roboto, 'Helvetica Neue', sans-serif;
+  background-color: #f5f5f5;
+}
+
+/* Estilos para accesibilidad */
+:focus-visible {
+  outline: 2px solid #3f51b5;
+  outline-offset: 2px;
+}
+
+/* Tamaños mínimos de toque para accesibilidad */
+button,
+a,
+.clickable {
+  min-width: 48px;
+  min-height: 48px;
+}
